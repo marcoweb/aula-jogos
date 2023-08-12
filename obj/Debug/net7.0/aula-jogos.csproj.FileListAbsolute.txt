@@ -1,0 +1,15 @@
+/workspace/aula-jogos/bin/Debug/net7.0/aula-jogos
+/workspace/aula-jogos/bin/Debug/net7.0/aula-jogos.deps.json
+/workspace/aula-jogos/bin/Debug/net7.0/aula-jogos.runtimeconfig.json
+/workspace/aula-jogos/bin/Debug/net7.0/aula-jogos.dll
+/workspace/aula-jogos/bin/Debug/net7.0/aula-jogos.pdb
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.csproj.AssemblyReference.cache
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.AssemblyInfoInputs.cache
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.AssemblyInfo.cs
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.csproj.CoreCompileInputs.cache
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.dll
+/workspace/aula-jogos/obj/Debug/net7.0/refint/aula-jogos.dll
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.pdb
+/workspace/aula-jogos/obj/Debug/net7.0/aula-jogos.genruntimeconfig.cache
+/workspace/aula-jogos/obj/Debug/net7.0/ref/aula-jogos.dll
